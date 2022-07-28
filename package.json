@@ -1,0 +1,21 @@
+{
+  "name": "ahvrvj--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "antd": "4.21.5",
+    "lodash": "4.17.21",
+    "@ant-design/icons": "4.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
